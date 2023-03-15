@@ -4,3 +4,6 @@
 
 Contact: jorgen.ankill2@rr-research.no
 
+#
+Description: 
+This repository contains scripts related to the paper "An integrative pan-cancer analysis of DNA methylation and gene expression identifies a common link between aberrant enhancer methylation and proliferation in cancer".
