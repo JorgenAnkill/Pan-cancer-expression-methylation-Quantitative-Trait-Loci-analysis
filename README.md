@@ -15,5 +15,4 @@ DNA methylation, gene expression, ATAC-seq and clinical data was downloaded from
 
 #
 **References:**
-
-[1] Goldman, M., et al., The UCSC Xena platform for public and private cancer genomics data visualization and interpretation. bioRxiv, 2019: p. 326470.
+  1. Goldman, M., et al., The UCSC Xena platform for public and private cancer genomics data visualization and interpretation. bioRxiv, 2019: p. 326470.
