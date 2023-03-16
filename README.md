@@ -1,4 +1,4 @@
-# An integrative pan-cancer analysis of DNA methylation and gene expression identifies a common link between aberrant enhancer methylation and proliferation in cancer
+# A comprehensive analysis of expression-methylation Quantitative Trait Loci across 33 cancer types provides novel insight into the mechanisms of tumor progression
 
 ***Jørgen Ankill, Zhi Zhao, Xavier Tekpli, Vessela N. Kristensen, Anthony Mathelier, Thomas Fleischer***
 
