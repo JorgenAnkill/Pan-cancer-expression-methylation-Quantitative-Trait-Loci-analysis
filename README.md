@@ -1,4 +1,4 @@
-# A comprehensive analysis of expression-methylation Quantitative Trait Loci across 33 cancer types provides novel insight into the role of DNA methylation on tumor progression
+# Integrative pan-cancer analysis reveals a common architecture of dysregulated transcriptional networks characterized by loss of enhancer methylation
 
 ***Jørgen Ankill, Zhi Zhao, Xavier Tekpli, Vessela N. Kristensen, Anthony Mathelier, Thomas Fleischer***
 
