@@ -1,6 +1,6 @@
 # Integrative pan-cancer analysis reveals a common architecture of dysregulated transcriptional networks characterized by loss of enhancer methylation
 
-***Jørgen Ankill, Zhi Zhao, Xavier Tekpli, Vessela N. Kristensen, Anthony Mathelier, Thomas Fleischer***
+***Jørgen Ankill, Zhi Zhao, Xavier Tekpli, Elin H. Kure, Vessela N. Kristensen, Anthony Mathelier, Thomas Fleischer
 
 Contact: Jørgen Ankill, jorgen.ankill2@rr-research.no
 
