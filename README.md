@@ -13,7 +13,7 @@ The code and associated data represent a minimal working example for pan-cancer 
 
 This code performs a correlation analysis between two matrices, metMat and exprMat, which contain normalized expression- and CpG methylation data respectively. DNA methylation levels at all CpGs are correlated with the expression of all genes by Pearson correlation to identify significant CpG-gene associations, i.e., emQTLs. The resulting significant correlations after Bonferroni correction are then grouped by bipartite network analysis using COmplex Network Description Of Regulators (CONDOR) into emQTL communities. 
 
-This example includes 100 random samples, 1000 random CpGs, and 100 random genes sourced from The Cancer Genome Atlas pan-cancer (TCGA-PANCAN) data, downloaded from the Xena browser. For more details on the data source, refer to: Goldman M et al. [1]. Data Source: https://xenabrowser.net/datapages/?cohort=GDC%20Pan-Cancer%20(PANCAN)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443.
+This example includes 100 random samples, 1000 CpGs, and 1000 genes sourced from The Cancer Genome Atlas pan-cancer (TCGA-PANCAN) data, downloaded from the Xena browser. For more details on the data source, refer to: Goldman M et al. [1]. Data Source: https://xenabrowser.net/datapages/?cohort=GDC%20Pan-Cancer%20(PANCAN)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443.
 
 **References:**
   1. Goldman, M., et al., The UCSC Xena platform for public and private cancer genomics data visualization and interpretation. bioRxiv, 2019: p. 326470.
